@@ -3,8 +3,7 @@ Summary: Converts images to music...duh
 
 We think it would be really cool to compose music from reading and parsing random images like this:
 
-
-Or this:
+![Alt text](/tourists.jpg)
 
 
 We wrote a Python script that takes in an image filename and a destination sound filename and writes the converted sound from the image to the destination file. 
