@@ -1,11 +1,15 @@
 # image2music_2.0
-Summary: Converts images to music...duh
 
-We think it would be really cool to compose music from reading and parsing random images like this:
+Image2music_2.0 allows you to compose music just by selecting a source image file. The program processes the image and creates a musical piece of configurable length. 
 
-![Alt text](/tourists.jpg)
+## Example
+For example, using this image as a source file:
+
+![Tourists](/tourists.jpg)
+
+an approximatley 5 second long piece of music was created.
+
+![Tourists](/tourists.wav)
 
 
-We wrote a Python script that takes in an image filename and a destination sound filename and writes the converted sound from the image to the destination file. 
-
-
+## Usage
