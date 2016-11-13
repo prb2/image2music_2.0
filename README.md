@@ -9,7 +9,7 @@ For example, using this image as a source file:
 
 an approximatley 5 second long piece of music was created.
 
-![Tourists Song](https://www.dropbox.com/s/2p9y2qy7afz5j9m/tourists.wav?dl=0)
+[Tourists Song](https://www.dropbox.com/s/2p9y2qy7afz5j9m/tourists.wav?dl=0)
 
 
 ## Usage
