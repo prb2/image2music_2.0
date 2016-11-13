@@ -5,11 +5,11 @@ Image2music_2.0 allows you to compose music just by selecting a source image fil
 ## Example
 For example, using this image as a source file:
 
-![Tourists](/tourists.jpg)
+![Tourists Image](/tourists.jpg)
 
 an approximatley 5 second long piece of music was created.
 
-![Tourists](/tourists.wav)
+![Tourists Song](https://www.dropbox.com/s/2p9y2qy7afz5j9m/tourists.wav?dl=0)
 
 
 ## Usage
